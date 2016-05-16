@@ -1,3 +1,3 @@
-# R Programming
+# R Programming (JHU)
 
 #### A Suarez-Pierre
